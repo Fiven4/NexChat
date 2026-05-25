@@ -11,9 +11,10 @@
 
 | Авторизация | Список чатов |                                    Экран переписки                                     |
 |:---:|:---:|:--------------------------------------------------------------------------------------:|
-| <img src="/Users/ivanvenikov/StudioProjects/messenger/screenshots/1.png" width="250"/> | <img src="/Users/ivanvenikov/StudioProjects/messenger/screenshots/2.png" width="250"/> | <img src="/Users/ivanvenikov/StudioProjects/messenger/screenshots/3.png" width="250"/> |
+| Авторизация | Список чатов | Экран переписки |
+|:---:|:---:|:---:|
+| <img src="screenshots/1.png" width="250"/> | <img src="screenshots/2.png" width="250"/> | <img src="screenshots/3.png" width="250"/> |
 
-*(Замените `ссылка_на_скрин...` на реальные пути к изображениям или URL после загрузки на GitHub)*
 
 ## ✨ Ключевые возможности
 
